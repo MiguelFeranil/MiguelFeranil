@@ -1,6 +1,6 @@
 # Hello, I'm Son Miguel Feranil! 👋
 
-I am a passionate coder with strong skills in database management. I love tackling complex problems and crafting elegant solutions. My tech journey began with the BS Information Technology program, and I am currently pursuing a BS in Computer Science at New Era University.
+I am a passionate coder with strong skills in database management. I love tackling complex problems and crafting elegant solutions. My tech journey began with the BS Computer Science program, and I am currently pursuing a BS in Computer Science at New Era University.
 
 ## Education
 
