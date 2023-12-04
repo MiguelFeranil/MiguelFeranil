@@ -6,7 +6,7 @@ I am a passionate coder with strong skills in database management. I love tackli
 
 - **BS Computer Science**
   New Era University
-  _2023-Present_
+  _2021-Present_
 
 ## Certification
 
